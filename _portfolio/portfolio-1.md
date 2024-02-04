@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "[Yunex Intern Challenge 2022](https://github.com/jacobrstone/Yunex-Intern-Challenge-2022)"
+excerpt: "As part of the final stage of my application to Yunex Traffic as Artificial Intelligence & Machine Learning Intern where I used Machine Learning and Data Analytics to explore the influence of weather regimes and energy production and demand. I created an 18-minute presentation, followed up by a 20minute Q&A session with the assessors."
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
