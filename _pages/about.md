@@ -30,3 +30,5 @@ During the month of November I managed to raise over £510 split across JustGivi
 ### BU Game Jam | January 2020
 Competed in the BU Game Jam where we were tasked to create a game in 1 week using the theme of ”expansion”. Using Unity and C# I created a 2D platformer,
 also experimenting with behaviour trees to create an interactive boss battle. Though I do not pursue game development professionally, it was a great way to be creative and practice coding during the pandemic and to observe how others interpreted the brief.
+
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
